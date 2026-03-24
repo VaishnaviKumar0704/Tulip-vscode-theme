@@ -1,0 +1,21 @@
+{
+  "name": "vaish-PinkGreenTheme",
+  "displayName": "PinkGreenTheme",
+  "description": "Tulip themed vs",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.110.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tulip",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tulip-color-theme.json"
+      }
+    ]
+  }
+}
